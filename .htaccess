@@ -1,0 +1,4 @@
+AddDefaultCharset UTF-8
+Options -Indexes
+
+php_value post_max_size 2000M
